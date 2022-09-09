@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("/home/larry/Documents/Website/nft-minting-app/public/config/images/bg.png", "_blank");
                 }}
                 style={{
                   margin: "5px",
